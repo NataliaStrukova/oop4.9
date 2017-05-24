@@ -1,0 +1,17 @@
+F:\ООП 2\задачи\oop_4.9\oop_4.9\bin\Debug\oop_4.9.exe
+F:\ООП 2\задачи\oop_4.9\oop_4.9\bin\Debug\oop_4.9.pdb
+F:\ООП 2\задачи\oop_4.9\oop_4.9\obj\x86\Debug\oop_4._9.FormTextBox.resources
+F:\ООП 2\задачи\oop_4.9\oop_4.9\obj\x86\Debug\oop_4._9.Properties.Resources.resources
+F:\ООП 2\задачи\oop_4.9\oop_4.9\obj\x86\Debug\oop_4.9.exe
+F:\ООП 2\задачи\oop_4.9\oop_4.9\obj\x86\Debug\oop_4.9.pdb
+F:\ООП 2\задачи\oop_4.9\oop_4.9\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ООП 2\задачи\oop_4.9\oop_4.9\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ООП 2\задачи\oop_4.9\oop_4.9\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\ооп\oop_4.9\oop_4.9\bin\Debug\oop_4.9.exe
+C:\Users\User\Desktop\ооп\oop_4.9\oop_4.9\bin\Debug\oop_4.9.pdb
+C:\Users\User\Desktop\ооп\oop_4.9\oop_4.9\obj\x86\Debug\oop_4.9.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ооп\oop_4.9\oop_4.9\obj\x86\Debug\oop_4._9.FormTextBox.resources
+C:\Users\User\Desktop\ооп\oop_4.9\oop_4.9\obj\x86\Debug\oop_4._9.Properties.Resources.resources
+C:\Users\User\Desktop\ооп\oop_4.9\oop_4.9\obj\x86\Debug\oop_4.9.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ооп\oop_4.9\oop_4.9\obj\x86\Debug\oop_4.9.exe
+C:\Users\User\Desktop\ооп\oop_4.9\oop_4.9\obj\x86\Debug\oop_4.9.pdb
